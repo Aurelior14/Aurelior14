@@ -29,9 +29,9 @@
 
 ### Let's get connected:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/aurélio-rodrigues-621449120/)
-[![]()]()
+<div>
+  <a href="https://www.linkedin.com/in/aur%C3%A9lio-rodrigues-621449120/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targrt="_blank"></a>
+</div>
 
 
 
