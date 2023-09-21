@@ -31,6 +31,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/aur%C3%A9lio-rodrigues-621449120/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targrt="_blank"></a>
+  <a href="mailto:aureliorodriguesel@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" targrt="_blank"></a>
+  <a href="" target="blank"><img src="" targrt="_blank"></a>
 </div>
 
 
