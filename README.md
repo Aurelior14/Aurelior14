@@ -1,6 +1,6 @@
 ### Bem vindo(a) 🖖 
 Olá, 👋 estou em um momento de transição de carreira para a área de tecnologia. <br>
-Com uma sólida bagagem profissional na indústria calçadista, estou agora focado <br> em aprimorar minhas habilidades como Desenvolvedor Web Full Stack.
+Com uma sólida bagagem profissional no setor calçadista, estou agora focado <br> em aprimorar minhas habilidades como Desenvolvedor Web Full Stack.
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aurelior14&show_icons=true&theme=tokyonight"/>
