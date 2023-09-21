@@ -8,7 +8,7 @@
 ### Let's get connected:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/936439691283165304)
-[![Discord](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([aureliorodriguesel@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCCRnGSRZBgPMDgzsXwtlcdjTcfzkBZbllCtzfXLFHhMTjjbnBPVZStCcMFWfZVrkJjNJq)https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCCRnGSRZBgPMDgzsXwtlcdjTcfzkBZbllCtzfXLFHhMTjjbnBPVZStCcMFWfZVrkJjNJq)
+[![Discord](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCKCCRnGSRZBgPMDgzsXwtlcdjTcfzkBZbllCtzfXLFHhMTjjbnBPVZStCcMFWfZVrkJjNJq)
 
 
 
