@@ -3,8 +3,8 @@ Olá, 👋 estou em um momento de transição de carreira para a área de tecnol
 Com uma sólida bagagem profissional no setor calçadista, estou agora focado <br> em aprimorar minhas habilidades como Desenvolvedor Web Full Stack.
 
 <div>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Aurelior14&show_icons=true&theme=tokyonight"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelior14&layout=compact&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Aurelior14&show_icons=true&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelior14&layout=compact&theme=tokyonight"/>
 </div> <hr>
 
 ### 🛠️ Technologies e Tools I use:
