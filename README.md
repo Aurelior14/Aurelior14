@@ -7,7 +7,7 @@ Com uma sólida bagagem profissional no setor calçadista, estou agora focado <b
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelior14&layout=compact&theme=tokyonight"/>
 </div> <hr>
 
-### 🛠️ Technologies e Tools I use:
+### 🛠️ Technologies and Tools I use:
 <div> <br>
   
   <img align="center" alt="Aurelio-html" height="35" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
